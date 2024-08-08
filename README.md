@@ -39,6 +39,7 @@
         <br>
         <h3>Artificial Intelligence</h3>
         <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=PyTorch&logoColor=white">
+        <img src="https://img.shields.io/badge/JAX-2a56c6?style=for-the-badge">
         <img src="https://img.shields.io/badge/MLX-000000?style=for-the-badge">
         <br>
         <h3>Application Programming</h3>
