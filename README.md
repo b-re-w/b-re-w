@@ -5,31 +5,43 @@
     <h2 style="border-bottom: 1px solid #d8dee4; color: #282d33;"> 😀 Hi there 👋</h2>  
     <div style="font-weight: 700; font-size: 15px; text-align: left; color: #282d33;">
         <text>
-            안녕하세요!
+            안녕하세요! 인공지능을 연구하는 brew 입니다.
         </text>
-        <h4>🔭 I’m currently working on ...</h4>
+        <h4>🔭 I’m currently working on...</h4>
         <ul>
-            <li>
-                aa
-            </li>
+            <li>Test-time Adaptation Research (Bachelor's Degree)</li>
+            <li>Decentralized AI (Federated, Swarm) Research (Bachelor's Degree)</li>
+            <li>Linear-level Attention Architecture Model Research (Bachelor's Degree)</li>
+            <li>On-Device AI Dev Environment Improve Project (A.K.A PyREPL Project, Thisisthepy Group)</li>
+            <li>Python-Kotlin Binding + Compose Wrapping Project (A.K.A PyComposeUI Project, Thisisthepy Group)</li>
         </ul>
-        <h4>⚡ Developing Works: ...</h4>
+        <h4>⚡ Developing Works:</h4>
         <ul>
-            <li>
-                aa
-            </li>
+            <li>[Application] PyREPL <a href="https://github.com/thisisthepy/PyREPL">...go</a></li>
+            <li>[Lang Binder] Python Multiplatform Mobile <a href="https://github.com/thisisthepy/python-multiplatform-mobile">...go</a></li>
+            <details>
+            <summary>more...</summary>
+            <li>[Web & Server] dAiv Blog (using Brython for FE, FastAPI for BE) <a href="https://github.com/dAiv-CNU/dAiv-CNU.github.io">...go</a></li>
+            <li>[Application] Stone Manager Clone App <a href="https://github.com/b-re-w/StoneManager">...go</a></li>
+            <li>[P2P Network] Connection Bridge / Untact Order Project [Dead/Archived] <a href="https://github.com/UntactOrder">...go</a></li>
+            </details>
         </ul>
-        <h4>🪄 Papers: ...</h4>
+        <h4>🪄 Papers:</h4>
         <ul>
-            <li>
-                aa
-            </li>
+            <li>Nothings yet...</li>
+            <details>
+            <summary>more...</summary>
+            </details>
         </ul>
-        <h4>🪄 Awards: ...</h4>
+        &nbsp;&nbsp;&nbsp;✨&nbsp;Paper Review Log: &nbsp;<a href="https://b-re-w.github.io/IdeaVault/index.html">My IdeaVault</a>
+        <h4>🏆 Awards:</h4>
         <ul>
-            <li>
-                aa
-            </li>
+            <li>Open Source Developer Competition 2024: <a href="https://www.oss.kr/dev_competition_activities/show/56abffeb-ce35-49d7-bba3-ebbf4367170f">the Second Prize (정보통신산업진흥원 원장상)</a></li>
+            <details>
+            <summary>more...</summary>
+            <li>The World Embedded software Contest 2019: <a href="https://www.eswcontest.or.kr/main.php">the Forth Prize (LG전자 사장상)</a></li>
+            <li>Open Connectivity Foundation Korea Developer Contest 2019: <a href="https://www.ocfk.org/event_view.html?event_seq=13">the Excellence Award (우수상)</a></li>
+            </details>
         </ul>
     </div>
 </div>
@@ -69,15 +81,13 @@
 <div style="text-align: left;">
     <h2 style="border-bottom: 1px solid #d8dee4; color: #282d33;">🏛️ Affiliations</h2>
     <div style="text-align: left;">
-        <div style="backgroud: ff809fcc">
-            <img href="https://ai.cnu.ac.kr/" src="https://ai.cnu.ac.kr/_res/bk21aero/img/common/logo-cnu-b.png" height="28">
-            Bachelor of Science in Artificial Intelligence, Chungnam National University (Expected Feb 2027)
-        </div>
+        &nbsp;<img href="https://ai.cnu.ac.kr/" src="https://ai.cnu.ac.kr/_res/bk21aero/img/common/logo-cnu-b.png" height="16">&nbsp;
+        Bachelor of Science in Artificial Intelligence, Chungnam National University (Expected Feb 2027)
         <br>
-        <img href="https://CNU-dAiv.github.io/" src="https://avatars.githubusercontent.com/u/145438830?s=200&v=4" height="28">
+        &nbsp;<img href="https://CNU-dAiv.github.io/" src="https://avatars.githubusercontent.com/u/145438830?s=200&v=4" height="16">&nbsp;
         Executive Officer, CNU dAiv AI Community (Sep 2023 ~ Feb 2026)
         <br>
-        <img href="https://www.github.com/thisisthepy/" src="https://avatars.githubusercontent.com/u/149831336?s=200&v=4" height="28">
+        &nbsp;<img href="https://www.github.com/thisisthepy/" src="https://avatars.githubusercontent.com/u/149831336?s=200&v=4" height="16">&nbsp;
         Lead Developer, THISISTHEPY Project Group (2023 ~)
     </div>
 </div>
@@ -97,8 +107,8 @@
 <div style="text-align: left;"> 
     <h2 style="border-bottom: 1px solid #d8dee4; color: #282d33;"> 🏅 Stats </h2>
     <div style="text-align: left;">
-        <img src="https://github-readme-stats.vercel.app/api?username=b-re-w&bg_color=60,b880c5,606595&title_color=f9f4fb&text_color=f9f4fb"/>
-        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=b-re-w&layout=compact&bg_color=60,8473c3,92a7bf&title_color=14093e&text_color=14093e"/>
+        <img src="https://github-readme-stats.vercel.app/api?username=b-re-w&bg_color=60,b880c5,606595&title_color=f9f4fb&text_color=f9f4fb" height="140"/>
+        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=b-re-w&layout=compact&bg_color=60,8473c3,92a7bf&title_color=14093e&text_color=14093e" height="140"/>
     </div>
 </div>
     
