@@ -25,6 +25,12 @@
                 aa
             </li>
         </ul>
+        <h4>🪄 Awards: ...</h4>
+        <ul>
+            <li>
+                aa
+            </li>
+        </ul>
     </div>
 </div>
 <div style="text-align: left;">
@@ -61,24 +67,32 @@
     </div>
 </div>
 <div style="text-align: left;">
+    <h2 style="border-bottom: 1px solid #d8dee4; color: #282d33;">🏛️ Affiliations</h2>
+    <div style="text-align: left;">
+        <div style="backgroud: ff809fcc">
+            <img href="https://ai.cnu.ac.kr/" src="https://ai.cnu.ac.kr/_res/bk21aero/img/common/logo-cnu-b.png" height="28">
+            Bachelor of Science in Artificial Intelligence, Chungnam National University (Expected Feb 2027)
+        </div>
+        <br>
+        <img href="https://CNU-dAiv.github.io/" src="https://avatars.githubusercontent.com/u/145438830?s=200&v=4" height="28">
+        Executive Officer, CNU dAiv AI Community (Sep 2023 ~ Feb 2026)
+        <br>
+        <img href="https://www.github.com/thisisthepy/" src="https://avatars.githubusercontent.com/u/149831336?s=200&v=4" height="28">
+        Lead Developer, THISISTHEPY Project Group (2023 ~)
+    </div>
+</div>
+<div style="text-align: left;">
     <h2 style="border-bottom: 1px solid #d8dee4; color: #282d33;">
         🧑‍💻 Contact me &nbsp;
         <a href="https://hits.seeyoufarm.com">
             <img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fb-re-w%2F&count_bg=%23000000&title_bg=%23000000&icon=github.svg&icon_color=%23FFFFFF&title=GitHub&edge_flat=false"/>
         </a>
     </h2>
-    <br> 
     <div style="text-align: left;">
-        <a href=https://cuws.notion.site>
-            <img src="https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=Notion&logoColor=white&link=https://cuws.notion.site">
-        </a>
-        <a href=mailto:irack000@gmail.com>
-            <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=Gmail&logoColor=white&link=mailto:irack000@gmail.com">
-        </a>
+        <img src="https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=Notion&logoColor=white&link=https://cuws.notion.site">
+        <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=Gmail&logoColor=white&link=mailto:brew.airesearch@gmail.com">
+        <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white&link=https://www.instagram.com/c.u.mun?igsh=aW94bXFwd204MDJ1">
     </div>
-    <br> 
-    <div style="text-align: left;"> 
-    </div> 
 </div>
 <div style="text-align: left;"> 
     <h2 style="border-bottom: 1px solid #d8dee4; color: #282d33;"> 🏅 Stats </h2>
