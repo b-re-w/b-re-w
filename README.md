@@ -99,9 +99,9 @@
         </a>
     </h2>
     <div style="text-align: left;">
-        <img src="https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=Notion&logoColor=white&link=https://cuws.notion.site">
-        <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=Gmail&logoColor=white&link=mailto:brew.airesearch@gmail.com">
-        <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white&link=https://www.instagram.com/c.u.mun?igsh=aW94bXFwd204MDJ1">
+        <a href="https://cuws.notion.site"><img src="https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=Notion&logoColor=white&link=https://cuws.notion.site"></a>
+        <a href="mailto:brew.airesearch@gmail.com"><img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=Gmail&logoColor=white&link=mailto:brew.airesearch@gmail.com"></a>
+        <a href="https://www.instagram.com/c.u.mun?igsh=aW94bXFwd204MDJ1"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white&link=https://www.instagram.com/c.u.mun?igsh=aW94bXFwd204MDJ1"><a>
     </div>
 </div>
 <div style="text-align: left;"> 
