@@ -15,10 +15,11 @@
             <li>On-Device AI Dev Environment Improve Project (A.K.A PyREPL Project, Thisisthepy Group)</li>
             <li>Python-Kotlin Binding + Compose Wrapping Project (A.K.A PyComposeUI Project, Thisisthepy Group)</li>
         </ul>
+        * I'm also interested in Physical AI and Robot AI through the implementation of Large World Models.
         <h4>⚡ Developing Works:</h4>
         <ul>
             <li>[Application] PyREPL <a href="https://github.com/thisisthepy/PyREPL">...go</a></li>
-            <li>[Lang Binder] Python Multiplatform Mobile <a href="https://github.com/thisisthepy/python-multiplatform-mobile">...go</a></li>
+            <li>[Lang Binder] Python Multiplatform <a href="https://github.com/thisisthepy/python-multiplatform">...go</a></li>
             <details>
             <summary>more...</summary>
             <li>[Web & Server] dAiv Blog (using Brython for FE, FastAPI for BE) <a href="https://github.com/dAiv-CNU/dAiv-CNU.github.io">...go</a></li>
@@ -82,13 +83,13 @@
     <h2 style="border-bottom: 1px solid #d8dee4; color: #282d33;">🏛️ Affiliations</h2>
     <div style="text-align: left;">
         &nbsp;<img href="https://ai.cnu.ac.kr/" src="https://ai.cnu.ac.kr/_res/bk21aero/img/common/logo-cnu-b.png" height="16">&nbsp;
-        Bachelor of Science in Artificial Intelligence, Chungnam National University (Expected Feb 2027)
+        Bachelor of Science in Artificial Intelligence, Chungnam National University (Mar 2021 ~ Expected Feb 2027)
         <br>
         &nbsp;<img href="https://CNU-dAiv.github.io/" src="https://avatars.githubusercontent.com/u/145438830?s=200&v=4" height="16">&nbsp;
-        Executive Officer, CNU dAiv AI Community (Sep 2023 ~ Feb 2026)
+        Executive Officer, CNU dAiv AI Community (Sep 2023 ~ Jan 2025)
         <br>
         &nbsp;<img href="https://www.github.com/thisisthepy/" src="https://avatars.githubusercontent.com/u/149831336?s=200&v=4" height="16">&nbsp;
-        Lead Developer, THISISTHEPY Project Group (2023 ~)
+        Lead Developer, THISISTHEPY Project Group (Sep 2023 ~ Now)
     </div>
 </div>
 <div style="text-align: left;">
@@ -101,7 +102,7 @@
     <div style="text-align: left;">
         <a href="https://cuws.notion.site"><img src="https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=Notion&logoColor=white&link=https://cuws.notion.site"></a>
         <a href="mailto:brew.airesearch@gmail.com"><img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=Gmail&logoColor=white&link=mailto:brew.airesearch@gmail.com"></a>
-        <a href="https://www.instagram.com/c.u.mun?igsh=aW94bXFwd204MDJ1"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white&link=https://www.instagram.com/c.u.mun?igsh=aW94bXFwd204MDJ1"><a>
+        <a href="https://www.instagram.com/c.u.mun?igsh=aW94bXFwd204MDJ1"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white&link=https://www.instagram.com/c.u.mun?igsh=aW94bXFwd204MDJ1"></a>
     </div>
 </div>
 <div style="text-align: left;"> 
