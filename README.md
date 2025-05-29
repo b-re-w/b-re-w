@@ -9,11 +9,11 @@
         </text>
         <h4>🔭 I’m currently working on...</h4>
         <ul>
-            <li>Test-time Adaptation Research (Bachelor's Degree)</li>
-            <li>Decentralized AI (Federated, Swarm) Research (Bachelor's Degree)</li>
-            <li>Linear-level Attention Architecture Model Research (Bachelor's Degree)</li>
-            <li>On-Device AI Dev Environment Improve Project (A.K.A PyREPL Project, Thisisthepy Group)</li>
-            <li>Python-Kotlin Binding + Compose Wrapping Project (A.K.A PyComposeUI Project, Thisisthepy Group)</li>
+            <li>Test-time Adaptation Research (Undergraduate Research)</li>
+            <li>Federated/Decentralized Learning Research (Undergraduate Research)</li>
+            <li>Efficient & Retentive Model Architecture Research (Undergraduate Research)</li>
+            <li>On-Device AI Development Tools Enhancement Project (Thisisthepy Project Group)</li>
+            <li>Python-Kotlin Binding + Compose Wrapper Project (pythonx) (Thisisthepy Project Group)</li>
         </ul>
         * I'm also interested in Physical AI and Robot AI through the implementation of Large World Models.
         <h4>⚡ Developing Works:</h4>
@@ -50,33 +50,28 @@
     <h2 style="border-bottom: 1px solid #d8dee4; color: #282d33;"> 🛠️ Tech Stacks </h2>
     <div style="margin: ; text-align: left;" "text-align: left;">
         <h3>Programming Languages</h3>
-        <img src="https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=C&logoColor=white">
-        <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=C%2B%2B&logoColor=white">
+        <img src="https://img.shields.io/badge/C/C++-00599C?style=for-the-badge&logo=C%2B%2B&logoColor=white">
         <img src="https://img.shields.io/badge/Java-007396?style=for-the-badge">
         <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=Python&logoColor=white">
         <img src="https://img.shields.io/badge/Kotlin-7F52FF?style=for-the-badge&logo=Kotlin&logoColor=white">
         <br>
         <h3>Artificial Intelligence</h3>
         <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=PyTorch&logoColor=white">
-        <img src="https://img.shields.io/badge/JAX-2a56c6?style=for-the-badge">
-        <img src="https://img.shields.io/badge/MLX-000000?style=for-the-badge">
+        <img src="https://img.shields.io/badge/executorch-BF3C29?style=for-the-badge&logo=PyTorch&logoColor=white">
+        <img src="https://img.shields.io/badge/JAX/Flax-8438B7?style=for-the-badge">
         <br>
         <h3>Application Programming</h3>
         <img src="https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=Flask&logoColor=white">
         <img src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=FastAPI&logoColor=white">
         <img src="https://img.shields.io/badge/jetpackcompose-4285F4?style=for-the-badge&logo=jetpackcompose&logoColor=white">
         <br>
-        <h3>Embedded Platforms</h3>
-        <img src="https://img.shields.io/badge/raspberrypi-A22846?style=for-the-badge&logo=raspberrypi&logoColor=white">
-        <img src="https://img.shields.io/badge/arduino-00878F?style=for-the-badge&logo=arduino&logoColor=white">
-        <img src="https://img.shields.io/badge/stmicroelectronics-03234B?style=for-the-badge&logo=stmicroelectronics&logoColor=white">
-        <br>
         <h3>Targetting Multi-Platforms</h3>
         <img src="https://img.shields.io/badge/Windows-007396?style=for-the-badge">
         <img src="https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=Android&logoColor=white">
-        <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=Linux&logoColor=white">
+        <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=Linux&logoColor=black">
         <img src="https://img.shields.io/badge/IOS-000000?style=for-the-badge&logo=IOS&logoColor=white">
         <img src="https://img.shields.io/badge/macos-000000?style=for-the-badge&logo=macos&logoColor=white">
+        <img src="https://img.shields.io/badge/WASM-654FF0?style=for-the-badge&logo=webassembly&logoColor=white">
     </div>
 </div>
 <div style="text-align: left;">
