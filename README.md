@@ -90,9 +90,7 @@
 <div style="text-align: left;">
     <h2 style="border-bottom: 1px solid #d8dee4; color: #282d33;">
         🧑‍💻 Contact me &nbsp;
-        <a href="https://hits.seeyoufarm.com">
-            <img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fb-re-w%2F&count_bg=%23000000&title_bg=%23000000&icon=github.svg&icon_color=%23FFFFFF&title=GitHub&edge_flat=false"/>
-        </a>
+        <a href="https://myhits.vercel.app"><img src="https://myhits.vercel.app/api/hit/https%3A%2F%2Fgithub.com%2Fb-re-w?color=red&label=github&size=small" alt="github" /></a>
     </h2>
     <div style="text-align: left;">
         <a href="https://cuws.notion.site"><img src="https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=Notion&logoColor=white&link=https://cuws.notion.site"></a>
