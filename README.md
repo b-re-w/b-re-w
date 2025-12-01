@@ -40,6 +40,7 @@
             <li>Open Source Developer Competition 2024: <a href="https://www.oss.kr/dev_competition_activities/show/56abffeb-ce35-49d7-bba3-ebbf4367170f">the Second Prize (정보통신산업진흥원 원장상)</a></li>
             <details>
             <summary>more...</summary>
+            <li>2025 Data Creator Camp: <a href="https://kbig.kr/portal/kbig/camp/history.page">the Excellence Award (한국지능정보사회진흥원 원장상)</a></li>
             <li>The World Embedded software Contest 2019: <a href="https://www.eswcontest.or.kr/main.php">the Forth Prize (LG전자 사장상)</a></li>
             <li>Open Connectivity Foundation Korea Developer Contest 2019: <a href="https://www.ocfk.org/event_view.html?event_seq=13">the Excellence Award (우수상)</a></li>
             </details>
