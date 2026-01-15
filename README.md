@@ -29,7 +29,8 @@
         </ul>
         <h4>🪄 Papers:</h4>
         <ul>
-            <li>Nothings yet...</li>
+            <li>[Test-time Adaptation] Learning to Normalize: Cascaded Frequency-Guided Adaptation for Domain-Shifted Object Detection (On-going Research)</li>
+            <li>[Text Guided Audio Generation] On the Speaker Inconsistency of Text-Styled Prompted TTS Models: Analysis and Initial Solutions (On-going Research)</li>
             <details>
             <summary>more...</summary>
             </details>
@@ -99,13 +100,14 @@
         <a href="https://www.instagram.com/c.u.mun?igsh=aW94bXFwd204MDJ1"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white&link=https://www.instagram.com/c.u.mun?igsh=aW94bXFwd204MDJ1"></a>
     </div>
 </div>
+<!--
 <div style="text-align: left;"> 
     <h2 style="border-bottom: 1px solid #d8dee4; color: #282d33;"> 🏅 Stats </h2>
     <div style="text-align: left;">
         <img src="https://github-readme-stats.vercel.app/api?username=b-re-w&bg_color=60,b880c5,606595&title_color=f9f4fb&text_color=f9f4fb" height="140"/>
         <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=b-re-w&layout=compact&bg_color=60,8473c3,92a7bf&title_color=14093e&text_color=14093e" height="140"/>
     </div>
-</div>
+</div>-->
     
 
 <!--
