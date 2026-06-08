@@ -89,6 +89,70 @@
         Lead Developer, THISISTHEPY Project Group (Sep 2023 ~ Now)
     </div>
 </div>
+
+## 🔥 From Spark to Flame
+
+<details open>
+<summary><b>🇺🇸 Read in English</b></summary>
+
+**Who or what awakened a spark in me?**
+
+My flame can be described in one sentence: *"I will contribute to humanity's advancement by building AGI."* The flame that began with a childhood dream of creating JARVIS from Iron Man has been ignited twice to reach where it burns today.
+
+The first spark was the AlphaGo match in 2016. Since middle school, I had been taking apart apps and building custom ROMs, quietly dreaming of one day creating an intelligence like JARVIS. AlphaGo was the first proof that such a dream could actually be possible. Yet even after that, AI still felt like a toy — classifying objects, detecting positions — and my flame burned small.
+
+The second ignition came through ChatGPT and the TTT-Linear paper. ChatGPT showed me the true potential of AI, and TTT-Linear introduced me to the Test-time Learning paradigm. I finally found a concrete path: to build AGI, I needed to develop a model that learns continually. With this second ignition, the flame grew larger — and today I walk that path, designing memory architectures (Titans) and a Full-duplex Spoken Language Model toward AGI.
+
+**What kind of fuel am I preparing now?**
+
+In an age where LLMs write code and draft papers, one might wonder whether there is anything left for me to do. I've felt that doubt deeply — especially after encountering Agents and Harnesses, which brought on real moments of depression. But the ARC-AGI-3 benchmark makes it clear: current AI is not yet AGI. Even the best models perform at less than 1% of human-level on this benchmark. That fact is both the reason my flame must not go out, and the foundation of the fuel I am preparing.
+
+That fuel connects three things. First, Titans-based memory architecture: for AGI to learn new tasks continually, it needs a memory structure grounded in Meta Learning or Nested Learning that updates during inference. Second, Full-duplex SLM: true intelligence should not wait for its turn — it must always be sensing and learning. Third, the idea that memory models can replace RL: if an architecture can achieve goal-directed adaptation without relying on external rewards, that is one step closer to genuinely autonomous intelligence. These three converge toward a single destination — AGI — and together they sustain me now.
+
+**Who are the people protecting my spark?**
+
+First, my parents. During my early undergraduate years, when saying I wanted to study AI sounded almost unreasonable, they never questioned what I was trying to do — they simply supported me. After ChatGPT arrived and made my path legible to the world, their support only grew stronger.
+
+Second, the American soldiers I served alongside in the military. In a time before ChatGPT even existed, when I introduced myself as an AI student, they told me: *"You're doing something really cool."* Back then, the belief that AI would change the world had not yet reached the public. That one remark kept my spark alive during the most vulnerable period — a time when even I wasn't sure what I could build or what my field even meant.
+
+**And someday, whose spark will I help awaken?**
+
+Many people today are anxious about AI taking their jobs. That anxiety is understandable — I feel it too. But I see the world after AGI differently. Just as computer science and the web opened entirely new industries in the early 2000s, AGI will open a world of possibilities we cannot yet imagine.
+
+I want to be one of the people who builds that foundation. If what I am researching today becomes even a single brick in the structure that opens that new world, the generations who live in it will solve problems we cannot yet conceive. When they set out to find their own spark, I hope the research or technology I leave behind can offer them even a small piece of inspiration. I am not yet in a position to pass that spark to anyone — but that is part of why I keep stacking fuel today.
+
+</details>
+
+<details>
+<summary><b>🇰🇷 한국어로 읽기</b></summary>
+
+**나의 불씨를 깨운 것은 무엇인가?**
+
+현재 나의 flame을 설명하는 한 문장은 *"나는 AGI를 만들어 인류의 발전에 기여하겠다"* 이다. 아이언맨 영화의 자비스를 보며 키워나간 내 마음속 flame이 이처럼 활발하게 타오르기까지 두 번의 spark가 있었다.
+
+첫 번째는 2016년 알파고 대국이었다. 중학교 때부터 앱을 뜯고 커스텀롬을 만들며 언젠가 자비스 같은 지능을 만들고 싶다는 막연한 꿈을 품고 있었다. 알파고는 그 꿈이 실제로 가능할 수 있다는 것을 처음으로 보여줬다. 그러나 그 이후에도 AI는 여전히 물체를 분류하고 위치를 잡아주는 수준에 머물러 있었고, 내 flame은 작게 타오르고 있었다.
+
+두 번째 점화는 ChatGPT와 TTT-Linear 논문이었다. ChatGPT를 통해 AI의 가능성을 새롭게 보게 되었고, TTT-Linear를 통해 Test-time 패러다임을 만나게 되었다. AGI를 만들려면 continual하게 학습하는 모델을 개발해야 한다는 구체적인 길이 비로소 잡힌 것이다. 이 두 번째 점화로 flame은 더욱 크게 타올랐고, 지금의 나는 그 위에서 메모리 아키텍처(Titans)와 Full-duplex SLM을 설계하며 AGI를 향한 구체적인 경로를 걷고 있다.
+
+**지금 나는 어떤 연료를 준비하고 있는가?**
+
+LLM이 코드를 짜고 논문을 작성하는 시대에, 내가 할 일이 남아있는가 하는 의문이 들 수 있다. 점점 그런 생각이 심하게 드는 중이고, 특히 Agent와 Harness를 접하고는 더 심하게 depression이 들곤 했다. 그러나 ARC-AGI3 벤치마크는 현재의 AI가 아직 AGI가 아님을 명확히 보여준다. 최고 성능의 모델들조차 인간 대비 1% 미만의 성능을 보이는 이 벤치마크는, 내 flame이 꺼지지 않아야 할 이유이자 지금 내가 준비하는 연료의 근거다.
+
+그 연료는 세 가지로 연결되어 있다. 첫째는 Titans 기반 메모리 아키텍처다. AGI가 새로운 태스크를 continual하게 학습하려면 추론 중에도 업데이트되는 Meta Learning 혹은 Nested Learning 기반의 메모리 구조가 필요하다. 둘째는 Full-duplex SLM이다. 진정한 지능이라면 턴이 돌아올 때만 동작하는 것이 아니라 항상 감각하고 학습하고 있어야 한다. 셋째는 메모리 모델이 RL을 대체할 수 있다는 아이디어다. 외부 보상에 의존하지 않고 아키텍처 자체가 목표 지향적 적응을 달성할 수 있다면, 그것이 진정한 의미의 자율적 지능에 한 발 더 가까워지는 것이다. 이 세 가지는 AGI라는 하나의 목표를 향해 수렴하는 연료로 지금의 날 뒷받침하고 있다.
+
+**나의 불씨를 지켜주는 사람들은 누구인가?**
+
+첫 번째는 부모님이다. 대학 신입생 시절 AI를 전공하겠다는 것이 말이 안 되는 것처럼 들리던 그 시기에, 부모님은 내가 하고자 하는 바에 의문을 제시하지 않고 서포티브했다. ChatGPT가 등장한 이후에는 내가 무엇을 하고 있는지 확실히 이해하게 되면서 그 지지는 더욱 강해졌다.
+
+두 번째는 군대에서 같이 근무했던 미군들이다. ChatGPT도 존재하지 않던 시절, AI학과라고 내가 처음 소개되었을 때 그들은 *"너는 정말 멋진 일을 하고 있다"* 고 말해줬다. 당시는 AI가 세상을 바꿀 것이라는 믿음이 아직 대중에게 닿지 않았던 시기였다. 그 한마디가 가장 취약했던 시절, 나 자체도 내가 무얼 만들 수 있는 학과에 다니고 있는지 모르겠던 그 시절의 내 spark를 꺼지지 않게 붙잡아줬다.
+
+**언젠가 나는 누구의 불씨를 깨워줄 것인가?**
+
+지금 많은 사람들이 AI로 인해 일자리가 사라질까 불안해하고 있다. 그 불안은 이해할 수 있고, 나도 그러한 불안을 느끼고 있다. 그러나 나는 AGI가 달성된 이후의 세상을 다르게 본다. 컴퓨터공학과 웹 기술이 2000년 초반 새로운 산업을 열었듯, AGI는 지금은 상상할 수 없는 새로운 가능성의 세상을 열 것이다.
+
+나는 그 기반 기술을 만드는 사람이 되고 싶다. 지금 내가 연구하고 있는 것들이 언젠가 AGI라는 새로운 세상을 여는 데 작은 벽돌 하나가 될 수 있다면, 그 세상 위에서 살아갈 미래 세대들은 지금 우리가 상상하지 못하는 새로운 문제들을 풀어나가게 될 것이다. 그 때 그들이 자신만의 불씨를 찾아 나설 때, 내가 남긴 연구나 기술이 그 여정에 조금이라도 영감을 불어넣어줄 수 있다면 좋겠다. 지금의 나는 아직 그 불씨를 전달할 수 있는 위치에 있지 않지만, 그것이 내가 지금 열심히 연료를 쌓아가는 이유 중 하나다.
+
+</details>
 <div style="text-align: left;">
     <h2 style="border-bottom: 1px solid #d8dee4; color: #282d33;">
         🧑‍💻 Contact me &nbsp;
