@@ -63,13 +63,6 @@
             </blockquote>
         </details>
         <details>
-            <summary><b>Who are the people protecting my spark?</b></summary>
-            <blockquote>
-                첫 번째는 부모님이다. 대학 신입생 시절 AI를 전공하겠다는 것이 말이 안 되는 것처럼 들리던 그 시기에, 부모님은 내가 하고자 하는 바에 의문을 제시하지 않고 서포티브했다. ChatGPT가 등장한 이후에는 내가 무엇을 하고 있는지 확실히 이해하게 되면서 그 지지는 더욱 강해졌다.<br>
-                두 번째는 군대에서 같이 근무했던 미군들이다. ChatGPT도 존재하지 않던 시절, AI학과라고 내가 처음 소개되었을 때 그들은 "너는 정말 멋진 일을 하고 있다"고 말해줬다. 당시는 AI가 세상을 바꿀 것이라는 믿음이 아직 대중에게 닿지 않았던 시기였다. 그 한마디가 가장 취약했던 시절, 나 자체도 내가 무얼 만들 수 있는 학과에 다니고 있는지 모르겠던 그 시절의 내 spark를 꺼지지 않게 붙잡아줬다.
-            </blockquote>
-        </details>
-        <details>
             <summary><b>And someday, whose spark will I help awaken?</b></summary>
             <blockquote>
                 지금 많은 사람들이 AI로 인해 일자리가 사라질까 불안해하고 있다. 그 불안은 이해할 수 있고, 나도 그러한 불안을 느끼고 있다. 그러나 나는 AGI가 달성된 이후의 세상을 다르게 본다. 컴퓨터공학과 웹 기술이 2000년 초반 새로운 산업을 열었듯, AGI는 지금은 상상할 수 없는 새로운 가능성의 세상을 열 것이다.<br>
