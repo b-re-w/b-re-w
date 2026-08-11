@@ -29,7 +29,7 @@
         </ul>
         <h4>🪄 Papers:</h4>
         <ul>
-            <li>[Test-time Adaptation] Learning to Normalize: Cascaded Frequency-Guided Adaptation for Domain-Shifted Object Detection (On-going Research)</li>
+            <li>[Test-time Adaptation] GITA: Input-level Test-time Adaptive Object Detection for Stable Long-horizon Adaptation under Continual Weather Domain Shifts (WACV 2027 Round 1] )</li>
             <li>[Text Guided Audio Generation] On the Speaker Inconsistency of Text-Styled Prompted TTS Models: Analysis and Initial Solutions (On-going Research)</li>
             <details>
             <summary>more...</summary>
