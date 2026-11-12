@@ -42,7 +42,8 @@
             <details>
             <summary>more...</summary>
             <li>2025 Data Creator Camp: <a href="https://kbig.kr/portal/kbig/camp/history.page">the Excellence Award (한국지능정보사회진흥원 원장상)</a></li>
-            <li>The World Embedded software Contest 2019: <a href="https://www.eswcontest.or.kr/main.php">the Forth Prize (LG전자 사장상)</a></li>
+            <li>NetClallenge Camp Season 13: <a href="https://www.nia.or.kr/site/nia_kor/ex/bbs/View.do?cbIdx=90549&bcIdx=29467">the Third Prize (ETRI 원장상)</a></li>
+            <li>The World Embedded software Contest 2019: <a href="https://www.eswcontest.or.kr/main.php">the Silver Prize (LG전자 사장상)</a></li>
             <li>Open Connectivity Foundation Korea Developer Contest 2019: <a href="https://www.ocfk.org/event_view.html?event_seq=13">the Excellence Award (우수상)</a></li>
             </details>
         </ul>
