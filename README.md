@@ -39,8 +39,10 @@
         <h4>🏆 Awards:</h4>
         <ul>
             <li>Open Source Developer Competition 2024: <a href="https://www.oss.kr/dev_competition_activities/show/56abffeb-ce35-49d7-bba3-ebbf4367170f">the Second Prize (정보통신산업진흥원 원장상)</a></li>
+            <li>KCC 2026 Outstanding Paper <a href="https://www.kiise.or.kr/academy/board/academyNewsView.fa;jsessionid=7DD0E27EB0D174851B29BF56CFF412FF">(일반세션 우수논문상)</a></li>
             <details>
             <summary>more...</summary>
+            <li>KCC 2026 Outstanding Student Paper <a href="https://www.kiise.or.kr/academy/board/academyNewsView.fa;jsessionid=7DD0E27EB0D174851B29BF56CFF412FF">(학부생 논문 경진대회 장려상)</a></li>
             <li>2025 Data Creator Camp: <a href="https://kbig.kr/portal/kbig/camp/history.page">the Excellence Award (한국지능정보사회진흥원 원장상)</a></li>
             <li>NetChallenge Camp Season 13: <a href="https://www.nia.or.kr/site/nia_kor/ex/bbs/View.do?cbIdx=90549&bcIdx=29467">the Silver Prize (ETRI 원장상)</a></li>
             <li>The World Embedded software Contest 2019: <a href="https://www.eswcontest.or.kr/main.php">the Silver Prize (LG전자 사장상)</a></li>
